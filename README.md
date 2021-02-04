@@ -1,6 +1,6 @@
 # showMe
 
-##how are you!
+## how are you!
 
 **你想做什么事情都可以的**
 
